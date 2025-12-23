@@ -10,8 +10,6 @@ I work with data.
 My focus is on **data engineering and analytics** — taking raw, messy data and turning it into clean, structured datasets that can actually be used for analysis and dashboards.
 
 This portfolio documents how I work with data end-to-end:  
-from ingestion and cleaning, to transformation, validation, and finally reporting using tools like **Power BI**.
-
 Most of the projects here are based on real, imperfect datasets.  
 The goal is not just insights, but **reliable data**.
 
@@ -20,10 +18,10 @@ The goal is not just insights, but **reliable data**.
 ### What you’ll find here
 - Data pipelines built in Python and SQL  
 - Practical data cleaning and transformation work  
-- Analytics-ready datasets  
-- Dashboards and reporting projects (Power BI, Tableau)
+- Analytics-ready datasets
 
-  ### Projects
+ 
+ ### Projects
 
 #### 1. Student Performance Prediction
 **Description**  
