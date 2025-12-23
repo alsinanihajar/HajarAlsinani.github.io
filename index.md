@@ -21,7 +21,7 @@ The goal is not just insights, but **reliable data**.
 - Analytics-ready datasets
 
  
- ### Projects
+ ###  Projects
 
 #### 1. Student Performance Prediction
 **Description**  
