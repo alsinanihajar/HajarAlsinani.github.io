@@ -19,8 +19,6 @@ The goal is not just insights, but **reliable data**.
 - Data pipelines built in Python and SQL  
 - Practical data cleaning and transformation work  
 - Analytics-ready datasets
-
- 
  ###  Projects
 
 #### 1. Student Performance Prediction
